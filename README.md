@@ -1,4 +1,4 @@
-![logo](https://previews.123rf.com/images/pratyaksa/pratyaksa1509/pratyaksa150900010/44827463-web-development-illustration-flat-design-banner-illustration-of-web-development-concept-flat-design.jpg)
+![logo](https://www.crushpixel.com/big-static19/preview4/coding-system-minimal-infographic-banner-3584480.jpg)
 
 <h1 align="center">Hi 👋, I'm Ritik Kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer</h3>
