@@ -1,201 +1,161 @@
-````md
-<h1 align="center">Hi 👋, I'm Ritik Kumar Gupta</h1>
+# 👋 Hi, I'm Ritik Kumar Gupta
 
 <h3 align="center">
-Full Stack MERN Developer • Building Scalable Web Platforms • Performance & SEO Focused
+Full Stack MERN Developer • React & Node.js Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React+%2B+Node.js+Engineer;Building+Production+Grade+Applications;Performance+Driven+Frontend+Developer;REST+API+%7C+RBAC+%7C+CMS+%7C+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Production+Ready+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Performance+%26+SEO+Focused" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ## 🚀 About Me
 
-- 💼 MERN Stack Developer with **1+ year of production experience**
-- 🔥 Built and deployed scalable applications used by **real clients & users**
-- 📈 Helped generate **₹1Cr+ revenue** through production-grade EdTech platforms
-- ⚡ Improved Lighthouse Performance from **58 → 90+**
-- 🧠 Strong focus on:
-  - React Performance Optimization
-  - REST API Architecture
-  - RBAC/Auth Systems
-  - SEO & Core Web Vitals
-  - CI/CD & VPS Deployment
+* 💼 MERN Stack Developer with production experience
+* ⚡ Built scalable React & Node.js applications
+* 📈 Improved Lighthouse score from **58 → 90+**
+* 🔥 Worked on real-world client platforms
+* 🧠 Strong in:
 
-- 🌱 Currently exploring:
-  - Advanced Backend Architecture
-  - Scalable System Design
-  - Next.js & Modern SSR
-  - DevOps Workflows
+  * React.js
+  * Node.js
+  * Express.js
+  * MongoDB
+  * REST APIs
+  * JWT & RBAC
+  * Tailwind CSS
+  * CI/CD
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,js,tailwind" />
 </p>
 
 ### Backend
-<p align="left">
+
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools & Deployment
-<p align="left">
+
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,ubuntu" />
 </p>
 
-### Additional Technologies
-- JWT Authentication
-- RBAC Authorization
-- Socket.io
-- Strapi CMS
-- Framer Motion
-- Google Tag Manager
-- Meta Pixel
-- Google Sheets API
-- CI/CD Pipelines
+---
+
+## 💼 Experience
+
+### Software Engineer — MERN Stack Developer
+
+**Click Melon Media Pvt. Ltd.**
+
+* 🚀 Built production-grade MERN applications
+* 📈 Generated 2100+ leads/month across platforms
+* 💰 Contributed to ₹1Cr+ revenue growth
+* ⚡ Developed 60+ REST API endpoints
+* 🔐 Implemented JWT Authentication & RBAC
+* 🌐 Migrated WordPress sites to React applications
 
 ---
 
-# 💼 Professional Experience
+## 🚀 Featured Projects
 
-## Software Engineer — MERN Stack Developer  
-### Click Melon Media Pvt. Ltd. | Noida, India  
-📅 Mar 2025 – Apr 2026
+### 🧠 Compare Vidya
 
-### Key Contributions
-- 🚀 Built **Compare Vidya**, a production EdTech platform from scratch
-- 📈 Generated **2100+ leads/month** across multiple client platforms
-- 💰 Contributed to **₹1Cr+ revenue** within 3 months of launch
-- ⚡ Developed **60+ REST API endpoints** across 17+ backend modules
-- 🔐 Implemented:
-  - JWT Authentication
-  - Cookie-based Auth
-  - RBAC Systems
-- 📊 Integrated:
-  - Meta Pixel
-  - GTM
-  - Google Forms
-  - Google Sheets API
-- 🌐 Migrated legacy WordPress websites to high-performance MERN applications
+Full Stack MERN EdTech Platform
+
+* ⚡ Lighthouse Performance: 90+
+* 🔍 SEO Score: 100
+* 🔐 RBAC Authentication
+* 📊 Meta Pixel & GTM Integration
+
+🔗 https://comparevidya.com
 
 ---
 
-# 🚀 Featured Projects
+### 💬 Chit-Chat
 
-## 🧠 Compare Vidya — Full Stack MERN Platform
+Real-Time MERN Chat Application
 
-### Tech Used
-`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+* Socket.io Real-Time Messaging
+* JWT Authentication
+* MongoDB Conversation Management
 
-### Highlights
-- ⚡ Lighthouse Performance: **58 → 90+**
-- 🔍 SEO Score: **92 → 100**
-- 🔐 Route-level RBAC implementation
-- 📊 Full-funnel ad attribution tracking
-- 🚀 Optimized lazy loading & semantic HTML
-
-🔗 Live Project: https://comparevidya.com
+🔗 https://github.com/Ritik2513
 
 ---
 
-## 💬 Chit-Chat — Real-Time MERN Chat Application
+### 🌐 Click Melon Media
 
-### Tech Used
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io`
+Official Company Website
 
-### Features
-- ⚡ Real-time messaging
-- 🔒 JWT Authentication
-- 💬 Efficient conversation threading
-- 📦 Optimized MongoDB schema design
+* React.js + Tailwind CSS
+* Framer Motion Animations
+* Fully Responsive Design
 
-🔗 GitHub Repo: https://github.com/Ritik2513
+🔗 https://clickmelon.com
 
 ---
 
-## 🌐 Click Melon Media — Official Website
-
-### Tech Used
-`React.js` `Tailwind CSS` `Framer Motion`
-
-### Features
-- 🎨 Modern responsive UI
-- ⚡ Fast loading animations
-- 📱 Fully mobile optimized
-- 🚀 Production-ready deployment
-
-🔗 Live Website: https://clickmelon.com
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ritik2513&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik2513&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ritik2513&show_icons=true&theme=tokyonight" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik2513&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik2513&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik2513&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🏆 Coding Profiles
+## 🏆 Coding Profiles
 
-<p align="left">
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-189%2B%20Problems-orange?style=for-the-badge&logo=leetcode" />
-</a>
+<p>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-189%2B%20Problems-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
-<a href="mailto:ritikgupta2513@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <a href="mailto:ritikgupta2513@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ritik2513">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/Ritik2513">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
-```js
-while(alive) {
+```javascript
+while(alive){
    eat();
    code();
    sleep();
    repeat();
 }
-````
+```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ritik2513&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ritik2513&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-<h3 align="center">
-⭐ Building impactful digital experiences with MERN Stack
-</h3>
-```
