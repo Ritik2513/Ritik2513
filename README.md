@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ritik2513.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ritik_gupta_2513/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikgupta2513@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cYNkUROneqUJfOACuREKaH2y6iFYT_FT/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1i7lyA7DeIX1ciBjiiQBWu3M_3MeUJVvA/view?usp=drive_link)
 
 </div>
 
@@ -150,17 +150,6 @@ const ritik = {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ritik2513&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 
