@@ -1,161 +1,110 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ritik%20Kumar%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=Ritik%20Kumar%20Gupta&fontSize=48&fontColor=e2e8f0&fontAlignY=40&desc=MERN%20Stack%20Developer%20%E2%80%94%20Building%20products%20that%20ship%2C%20scale%2C%20and%20convert&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-gupta-a69253229/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ritik2513.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ritik_gupta_2513/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikgupta2513@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1i7lyA7DeIX1ciBjiiQBWu3M_3MeUJVvA/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-gupta-a69253229/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://ritik2513.vercel.app/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ritik_gupta_2513/)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1i7lyA7DeIX1ciBjiiQBWu3M_3MeUJVvA/view?usp=drive_link)&nbsp;
+[![Email](https://img.shields.io/badge/ritikgupta2513@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ritikgupta2513@gmail.com)
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
-
-```javascript
+```ts
 const ritik = {
-  role        : "MERN Stack Developer",
-  experience  : "1+ year of full production ownership",
-  location    : "Noida, India",
-  education   : "MCA @ KIIT University (CGPA: 8.5)",
-  focus       : ["React.js", "Node.js", "Express.js", "MongoDB"],
-  highlights  : [
-    "Drove INR 1Cr+ revenue in 3 months via Compare Vidya EdTech platform",
-    "Generated 2,100+ leads/month across 4 client platforms",
-    "Lifted Lighthouse score from 58 → 90+ across multiple production apps",
-    "Architected 60+ REST API endpoints across 17+ backend modules"
-  ],
-  leetcode         : "189+ problems → leetcode.com/u/ritik_gupta_2513",
-  currentlyWorking : "Click Melon Media Pvt. Ltd.",
-  funFact          : "I think I'm funny 😅"
+  role       : "MERN Stack Developer",
+  company    : "Click Melon Media Pvt. Ltd.",
+  location   : "Noida, India",
+  education  : "MCA — KIIT University (8.5 CGPA)",
+  stack      : ["React", "Node.js", "Express", "MongoDB", "Tailwind", "Socket.io"],
+  impact     : ["INR 1Cr+ revenue in 3 months", "2,100+ leads/month", "90+ Lighthouse score"],
 };
 ```
 
 ---
 
-## 🚀 Professional Impact
+## Impact
 
 <div align="center">
 
-| 📈 Metric | 🎯 Result |
-|-----------|-----------|
-| Revenue Generated | **INR 1 Crore+** in 3 months |
-| Monthly Leads | **2,100+** across 4 platforms |
-| Lighthouse Score | **58 → 90+** (Performance) |
-| API Endpoints | **60+** across 17+ modules |
-| LeetCode Problems | **189+** solved |
-| University Admissions | **90+** confirmed via ad funnels |
+|  | Metric | Result |
+|--|--------|--------|
+| 💰 | Revenue via Compare Vidya | **INR 1 Crore+** in 3 months |
+| 📥 | Monthly qualified leads | **2,100+** across 4 platforms |
+| 🎯 | University admissions driven | **90+** confirmed |
+| ⚡ | Lighthouse performance | **58 → 90+** (Performance) · **81 → 100** (Best Practices) · **92 → 100** (SEO) |
+| 🔌 | REST API endpoints shipped | **60+** across 17+ backend modules |
+| 🧩 | LeetCode problems solved | **189+** |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
 <div align="center">
 
-**Languages & Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-**Integrations**
-
-![Google Tag Manager](https://img.shields.io/badge/GTM-%23246FDB.svg?style=for-the-badge&logo=googletagmanager&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_Pixel-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google_Ads-%234285F4.svg?style=for-the-badge&logo=googleads&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Ubuntu_VPS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![Meta Pixel](https://img.shields.io/badge/Meta_Pixel-0467DF?style=flat-square&logo=meta&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+## Projects
 
-### 🎓 [Compare Vidya](https://comparevidya.com) — Full Stack EdTech Platform
-> **Tech:** React.js · Node.js · Express.js · MongoDB · Tailwind CSS · Framer Motion
+**[Compare Vidya](https://comparevidya.com)** — EdTech Platform `React · Node · Express · MongoDB · Tailwind · Framer Motion`
 
-- 📊 Lighthouse Performance: **58 → 90** | SEO: **92 → 100** | Best Practices: **81 → 100**
-- 💰 Drove **INR 1 Crore+** revenue within **3 months** of launch
-- 🚀 Scaled to **1,000+ monthly organic users**
-- 🔐 17+ backend modules with RBAC, JWT refresh & cookie-based auth
-- 📡 Meta Pixel + GTM integration for real-time full-funnel ad attribution
+> Full MERN build from scratch. 90 Lighthouse score, INR 1Cr+ revenue in 3 months, 1,000+ monthly organic users. 17 backend modules with RBAC + JWT + cookie auth. Meta Pixel & GTM for full-funnel attribution — zero dev dependency for the marketing team.
 
 ---
 
-### 💬 [Chit-Chat](https://github.com/Ritik2513) — Real-Time Messaging App
-> **Tech:** React.js · Node.js · Express.js · MongoDB · Socket.io · JWT · Tailwind CSS
+**[Chit-Chat](https://github.com/Ritik2513)** — Real-Time Messaging `React · Node · Express · MongoDB · Socket.io · JWT`
 
-- ⚡ Sub-second bidirectional messaging via **Socket.io WebSockets**
-- 🗄️ MongoDB schemas optimized for conversation threading & history pagination
-- 🔒 Secure auth with JWT tokens and protected routes
+> Sub-second bidirectional messaging with Socket.io WebSockets. MongoDB schemas built for efficient conversation threading and paginated history.
 
 ---
 
-### 🏢 [Click Melon Media](https://clickmelonmedia.com) — Company Website
-> **Tech:** React.js · Tailwind CSS · Framer Motion
+**[Click Melon Media](https://clickmelonmedia.com)** — Company Website `React · Tailwind · Framer Motion`
 
-- ✨ Production marketing site used by real clients daily
-- 🎨 Smooth Framer Motion animations + fully responsive layout
-- ⚡ **< 2s load time** with optimized performance
+> Production marketing site with Framer Motion animations, full responsive layout, and <2s load time — used daily by real clients.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritik2513&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik2513&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik2513&theme=github-dark-blue&hide_border=true&background=00000000&stroke=1e293b&ring=60a5fa&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=64748b"/>
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik2513&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
-</div>
+---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritik2513&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="95%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%"/>
 
-</div>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-*"Building scalable systems, one endpoint at a time."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=ritik2513&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ritik2513&color=60a5fa&style=flat-square&label=profile+views)
 
 </div>
