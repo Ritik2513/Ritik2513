@@ -96,7 +96,7 @@ const ritik = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik2513&theme=github-dark-blue&hide_border=true&background=00000000&stroke=1e293b&ring=60a5fa&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=64748b"/>
+ <img src="https://streak-stats.demolab.com/?user=ritik2513&theme=github-dark-blue&hide_border=true&background=00000000&stroke=1e293b&ring=60a5fa&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=64748b"/>
 </div>
 
 ---
