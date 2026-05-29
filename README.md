@@ -1,33 +1,201 @@
-![logo](https://www.crushpixel.com/big-static19/preview4/coding-system-minimal-infographic-banner-3584480.jpg)
-
+````md
 <h1 align="center">Hi 👋, I'm Ritik Kumar Gupta</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
-<img src = "https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align = "right" width = "400" alt="coding" />
+<h3 align="center">
+Full Stack MERN Developer • Building Scalable Web Platforms • Performance & SEO Focused
+</h3>
 
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [github.com/Ritik2513](github.com/Ritik2513)
-
-- 💬 Ask me about **Reactjs,HTML, CSS,JavaScript,Java**
-
-- 📫 How to reach me **ritikgupta2513@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cYNkUROneqUJfOACuREKaH2y6iFYT_FT/view?usp=drive_link](https://drive.google.com/file/d/1cYNkUROneqUJfOACuREKaH2y6iFYT_FT/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I am Funny😅😁**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/hrithik_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hrithik_gupta" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React+%2B+Node.js+Engineer;Building+Production+Grade+Applications;Performance+Driven+Frontend+Developer;REST+API+%7C+RBAC+%7C+CMS+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik2513&show_icons=true&locale=en&layout=compact" alt="ritik2513" /></p>
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik2513&show_icons=true&locale=en" alt="ritik2513" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik2513&" alt="ritik2513" /></p>
+- 💼 MERN Stack Developer with **1+ year of production experience**
+- 🔥 Built and deployed scalable applications used by **real clients & users**
+- 📈 Helped generate **₹1Cr+ revenue** through production-grade EdTech platforms
+- ⚡ Improved Lighthouse Performance from **58 → 90+**
+- 🧠 Strong focus on:
+  - React Performance Optimization
+  - REST API Architecture
+  - RBAC/Auth Systems
+  - SEO & Core Web Vitals
+  - CI/CD & VPS Deployment
+
+- 🌱 Currently exploring:
+  - Advanced Backend Architecture
+  - Scalable System Design
+  - Next.js & Modern SSR
+  - DevOps Workflows
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,ubuntu" />
+</p>
+
+### Additional Technologies
+- JWT Authentication
+- RBAC Authorization
+- Socket.io
+- Strapi CMS
+- Framer Motion
+- Google Tag Manager
+- Meta Pixel
+- Google Sheets API
+- CI/CD Pipelines
+
+---
+
+# 💼 Professional Experience
+
+## Software Engineer — MERN Stack Developer  
+### Click Melon Media Pvt. Ltd. | Noida, India  
+📅 Mar 2025 – Apr 2026
+
+### Key Contributions
+- 🚀 Built **Compare Vidya**, a production EdTech platform from scratch
+- 📈 Generated **2100+ leads/month** across multiple client platforms
+- 💰 Contributed to **₹1Cr+ revenue** within 3 months of launch
+- ⚡ Developed **60+ REST API endpoints** across 17+ backend modules
+- 🔐 Implemented:
+  - JWT Authentication
+  - Cookie-based Auth
+  - RBAC Systems
+- 📊 Integrated:
+  - Meta Pixel
+  - GTM
+  - Google Forms
+  - Google Sheets API
+- 🌐 Migrated legacy WordPress websites to high-performance MERN applications
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Compare Vidya — Full Stack MERN Platform
+
+### Tech Used
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+
+### Highlights
+- ⚡ Lighthouse Performance: **58 → 90+**
+- 🔍 SEO Score: **92 → 100**
+- 🔐 Route-level RBAC implementation
+- 📊 Full-funnel ad attribution tracking
+- 🚀 Optimized lazy loading & semantic HTML
+
+🔗 Live Project: https://comparevidya.com
+
+---
+
+## 💬 Chit-Chat — Real-Time MERN Chat Application
+
+### Tech Used
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io`
+
+### Features
+- ⚡ Real-time messaging
+- 🔒 JWT Authentication
+- 💬 Efficient conversation threading
+- 📦 Optimized MongoDB schema design
+
+🔗 GitHub Repo: https://github.com/Ritik2513
+
+---
+
+## 🌐 Click Melon Media — Official Website
+
+### Tech Used
+`React.js` `Tailwind CSS` `Framer Motion`
+
+### Features
+- 🎨 Modern responsive UI
+- ⚡ Fast loading animations
+- 📱 Fully mobile optimized
+- 🚀 Production-ready deployment
+
+🔗 Live Website: https://clickmelon.com
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ritik2513&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik2513&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik2513&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-189%2B%20Problems-orange?style=for-the-badge&logo=leetcode" />
+</a>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:ritikgupta2513@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ritik2513">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```js
+while(alive) {
+   eat();
+   code();
+   sleep();
+   repeat();
+}
+````
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ritik2513&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<h3 align="center">
+⭐ Building impactful digital experiences with MERN Stack
+</h3>
+```
