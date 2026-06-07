@@ -30,7 +30,7 @@ Building platforms that generate real revenue, real leads, and real users.
 | 📥 Monthly qualified leads | **2,100+** across 4 client platforms |
 | 🎯 University admissions driven | **90+** confirmed admissions |
 | ⚡ Lighthouse performance | **58 → 90+** (Perf) · **81 → 100** (Best Practices) · **92 → 100** (SEO) |
-| 🔌 REST API endpoints shipped | **60+** across 17+ backend modules |
+| 🔌 REST API endpoints shipped | **40+** across 8+ backend modules |
 | 📈 Lead gen improvement | **2–3×** after migrating 3 legacy WordPress platforms |
 
 ---
