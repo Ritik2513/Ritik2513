@@ -12,7 +12,7 @@ Building platforms that generate real revenue, real leads, and real users.
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-gupta-a69253229/)
 &nbsp;
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1i7lyA7DeIX1ciBjiiQBWu3M_3MeUJVvA/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1OlOAv9rvfbCNoWphDrBXx951uL2tnMHU/view?usp=drive_link)
 &nbsp;
 [![Email](https://img.shields.io/badge/ritikgupta2513@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ritikgupta2513@gmail.com)
 &nbsp;
