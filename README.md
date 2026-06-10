@@ -26,7 +26,7 @@ Building platforms that generate real revenue, real leads, and real users.
 
 | Metric | Result |
 |--------|--------|
-| 💰 Revenue generated | **₹1 Crore+** in 3 months via Compare Vidya |
+| 💰 Revenue contributed | **₹1 Crore+** in 3 months via Compare Vidya |
 | 📥 Monthly qualified leads | **2,100+** across 4 client platforms |
 | 🎯 University admissions driven | **90+** confirmed admissions |
 | ⚡ Lighthouse performance | **58 → 90+** (Perf) · **81 → 100** (Best Practices) · **92 → 100** (SEO) |
