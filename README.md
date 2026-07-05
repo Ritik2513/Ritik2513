@@ -16,6 +16,8 @@ Building platforms that generate real revenue, real leads, and real users.
 &nbsp;
 [![npm](https://img.shields.io/npm/v/react-gsap-effects?style=flat-square&logo=npm&label=react-gsap-effects&color=CB3837)](https://www.npmjs.com/package/react-gsap-effects)
 &nbsp;
+[![npm downloads](https://img.shields.io/npm/dm/react-gsap-effects)](https://www.npmjs.com/package/react-gsap-effects)
+&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode%20200+-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ritik_gupta_2513/)
 
 </div>
